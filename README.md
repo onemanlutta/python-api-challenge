@@ -30,7 +30,6 @@ Using hvplots and geoviews and geoapi API:
 3. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 5. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
-6. Narrow down the DataFrame to find your ideal weather condition. For example:
-7. Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
 
 
