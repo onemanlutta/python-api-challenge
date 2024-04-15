@@ -60,6 +60,8 @@ Using hvplots and geoviews and geoapi API:
 
 ![Plot of selected hotels within the radius of the city](https://github.com/onemanlutta/python-api-challenge/assets/118937365/5362e1b1-9000-4904-8c1c-9454d54186e7)
 
+# The Solutions
 
+These are contained in the Weatherpy folder as Jupyter Notebooks as WeatherPy.ipynb for Task I and as VacationPy.ipynb for Task II. The datasets and analysis outputs are found in the root of the WeatherPy directory as output_data.  
 
 
